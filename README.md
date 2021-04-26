@@ -1,4 +1,22 @@
 ### Hi there 👋
+- My name is Yumi!
+- Yumi means many different things such as: reason,cause and beauty.
+😄 Pronouns: ...
+ - Yumicorn🦄
+ - Guboo
+🌱I’m currently learning ...
+ - html
+ - css
+ - javascript
+ 
+ 📫 How to reach me: ...
+  - khan academy-@Yumicorn123
+  - email-yumi.gupta@hotmail.com
+  - github-github.com/Yumicornpanda
+  - ⚡ Fun fact: ...
+  - i have a twin me- Miyu
+  - in my spare time i like to spend time with Miyu.
+ 
 
 <!--
 **Yumicornpanda/Yumicornpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
